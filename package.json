@@ -1,0 +1,24 @@
+{
+  "name": "iptables-parser",
+  "version": "1.0.0",
+  "description": "(Good) non-regex parser for iptables -j LOG entries in dmesg",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/modeco80/iptables-parser.git"
+  },
+  "keywords": [
+    "iptables",
+    "iptables-log",
+    "log-parsing"
+  ],
+  "author": "modeco80",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/modeco80/iptables-parser/issues"
+  },
+  "homepage": "https://github.com/modeco80/iptables-parser#readme"
+}
